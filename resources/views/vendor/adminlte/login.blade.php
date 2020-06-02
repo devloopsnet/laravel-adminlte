@@ -29,11 +29,6 @@
 @endif
 
 @section('body')
-    <style>
-        .login-page, .register-page {
-            background: #ed1c24 !important;
-        }
-    </style>
     <div class="login-box">
         <div class="login-logo">
             <a href="{{ $dashboard_url }}">{!! config('adminlte.logo', '<b>Admin</b>LTE') !!}</a>
