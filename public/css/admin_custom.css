@@ -1,0 +1,29 @@
+.example-modal .modal {
+    position: relative;
+    top: auto;
+    bottom: auto;
+    right: auto;
+    left: auto;
+    display: block;
+    z-index: 1;
+}
+
+.example-modal .modal {
+    background: transparent !important;
+}
+
+.bg-Offline {
+    background-color: #dd4b39 !important;
+}
+
+.bg-Online {
+    background-color: #00a65a !important;
+}
+
+.bg-Free {
+    background-color: #00c0ef !important;
+}
+
+.bg-Busy {
+    background-color: #dd4b39 !important;
+}
